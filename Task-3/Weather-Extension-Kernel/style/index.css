@@ -1,0 +1,59 @@
+.container {
+    background: #fefefe;
+}
+
+.my-apodWidget {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    overflow: auto;
+}
+  
+  
+.my-apodWidget form {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+}
+
+.my-apodWidget input {
+    width: 220px;
+    background: transparent;
+    border: 1px solid #333333;
+    color: #333333;
+    font-size: 1.2rem;
+    padding: 6px 8px;
+    margin: 6px 28px;
+}
+  
+.my-apodWidget button {
+    background: transparent;
+    border: 2.5px solid #333333;
+    color: #333333;
+    outline: none;
+    font-size: 1.2rem;
+    padding: 6px 16px;
+    margin: 6px 0;
+    transition: 0.5s;
+    cursor: pointer;
+}
+  
+.my-apodWidget button:hover {
+    background: #333333;
+    color: #ffffff;
+}
+  
+.my-apodWidget > div {
+    font-size: 1rem;
+    color: #777777;
+    margin-top: 40px;
+    padding: 0 32px;
+    letter-spacing: 0.1rem;
+}
+  
+.my-apodWidget > div span {
+      font-weight: bold;
+      color: #333333;
+}
