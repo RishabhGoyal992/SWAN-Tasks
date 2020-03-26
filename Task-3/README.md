@@ -16,6 +16,8 @@ the user space. When printing this variable, the user is able to see the json wi
 
 ## Websites
 - https://github.com/jupyterlab/jupyterlab - Source
+- https://gitlab.cern.ch/swan/jupyter/blob/qa/SparkConnector/sparkconnector/connector.py - Code base
+- https://ipython.readthedocs.io/en/master/config/extensions/index.html - Documentation
 - https://jupyterlab.readthedocs.io/en/stable/developer/extension_dev.html- Documentation
 
 
