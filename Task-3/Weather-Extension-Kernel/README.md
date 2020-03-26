@@ -4,22 +4,34 @@ A JupyterLab extension. The data is imported into the kernel as variables in the
 
 ## Requirements
 
-* JupyterLab >= 2.0
+* JupyterLab 2.0
 
-## Install
+## Procedure for the installtion
+
+1. Make sure you have Conda installed in your system if not install it from [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/).
+
+2. Create a Conda environment in your respective machine with the following command:
 
 ```bash
+conda create -n jupyterlab-ext --override-channels --strict-channel-priority -c conda-forge -c jupyterlab cookiecutter nodejs
+conda activate jupyterlab-ext
+```
+
+3. Change the working Directory to the folder containing the product (here for example Weather-Extension-Kernel).
+
+```bash
+cd Weather-Extension-Kernel
 ./install.sh
 jupyter labextension install .
 ```
 
-## Contributing
+## For Contributing
 
 ### Install
 
 The `jlpm` command is JupyterLab's pinned version of
 [yarn](https://yarnpkg.com/) that is installed with JupyterLab. You may use
-`yarn` or `npm` in lieu of `jlpm` below.
+`yarn` or `npm` instead of `jlpm` below.
 
 ```bash
 # Clone the repo to your local environment
