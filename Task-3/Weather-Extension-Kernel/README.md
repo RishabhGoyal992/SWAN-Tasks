@@ -63,3 +63,14 @@ jupyter lab --watch
 jupyter labextension uninstall weather_ext2
 ```
 
+# Resources
+
+## Websites
+- https://github.com/jupyterlab/jupyterlab - Source
+- https://gitlab.cern.ch/swan/jupyter/blob/qa/SparkConnector/sparkconnector/connector.py - Code base
+- https://ipython.readthedocs.io/en/master/config/extensions/index.html - Documentation
+- https://jupyterlab.readthedocs.io/en/stable/developer/extension_dev.html- Documentation
+
+
+
+
