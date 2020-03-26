@@ -7,5 +7,5 @@ A python module that accomplishes the following tasks:-
 
 3. Reads back the files and check their md5 checksum.
 
-4. Outputs for each file a line in the format: "<filename> <md5 checksum>"
+4. Outputs for each file a line in the format: `<filename> <md5 checksum>`
    
