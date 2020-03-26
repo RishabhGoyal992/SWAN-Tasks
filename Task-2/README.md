@@ -17,7 +17,7 @@ conda create -n jupyterlab-ext --override-channels --strict-channel-priority -c 
 conda activate jupyterlab-ext
 ```
 
-3. Change the working Directory to the folder containing the product(here for example Weather-Extension)
+3. Change the working Directory to the folder containing the product (here for example Weather-Extension).
 ```bash
 cd Weather-Extension
 jupyter labextension install .
