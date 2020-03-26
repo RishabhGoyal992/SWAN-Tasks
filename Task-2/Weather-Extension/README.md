@@ -50,3 +50,9 @@ jupyter lab --watch
 jupyter labextension uninstall weather_extension
 ```
 
+# Resources
+
+## Websites
+- https://github.com/jupyterlab/jupyterlab - Source
+- https://jupyterlab.readthedocs.io/en/latest/ - Documentation
+
