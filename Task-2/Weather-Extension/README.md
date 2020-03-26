@@ -1,18 +1,17 @@
-# weather
+# Weather Extension for Jupyter Lab
 
 ![Github Actions Status](https://github.com/my_name/myextension/workflows/Build/badge.svg)
 
-A JupyterLab extension.
-
+A JupyterLab extension to get weather data for cities.
 
 ## Requirements
 
-* JupyterLab >= 1.0
+* JupyterLab >= 2.0
 
 ## Install
 
 ```bash
-jupyter labextension install weather
+jupyter labextension install .
 ```
 
 ## Contributing
@@ -25,7 +24,7 @@ The `jlpm` command is JupyterLab's pinned version of
 
 ```bash
 # Clone the repo to your local environment
-# Move to weather directory
+# Move to weather_extension directory
 # Install dependencies
 jlpm
 # Build Typescript source
@@ -50,6 +49,6 @@ jupyter lab --watch
 ### Uninstall
 
 ```bash
-jupyter labextension uninstall weather
+jupyter labextension uninstall weather_extension
 ```
 
