@@ -1,7 +1,5 @@
 # Weather Extension for Jupyter Lab
 
-![Github Actions Status](https://github.com/my_name/myextension/workflows/Build/badge.svg)
-
 A JupyterLab extension. The data is imported into the kernel as variables in the user's namespace.
 
 ## Requirements
