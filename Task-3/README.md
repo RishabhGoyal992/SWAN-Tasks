@@ -1,27 +1,21 @@
 # Weather Extension for Jupyter Lab
 
-A JupyterLab extension to get weather data for cities. The data is imported into the kernel as variables in the user's namespace.
-Search for a city to get weather data. The data can then be accessed as a variable `weather_data` in the notebook.
+A packaged JupyterLab extension ready to be installed, which provides the functionality of obtaining weather data of the world cities, with an ability to access the weather information inside a notebook cell. A Kernel Extension is created that creates variable inside
+the user space. When printing this variable, the user is able to see the json with the weather information.
+
+# How to use it?
+
+1. Search for a city in the extension to get the detailed weather data.
+2. The data can then be accessed as a variable `weather_data` in the notebook cell.
 
 ## Requirements
 
-* JupyterLab >= 2.0
+* JupyterLab 2.0
 
-## Install
+# Resources
 
-Make sure you have Conda installed in your system.
-
-Create a Conda environment with the following command
-
-```bash
-conda create -n jupyterlab-ext --override-channels --strict-channel-priority -c conda-forge -c jupyterlab cookiecutter nodejs
-conda activate jupyterlab-ext
-```
-
-```bash
-cd WeatherJupyterLab
-./install.sh
-jupyter labextension install .
-```
+## Websites
+- https://github.com/jupyterlab/jupyterlab - Source
+- https://jupyterlab.readthedocs.io/en/stable/developer/extension_dev.html- Documentation
 
 
