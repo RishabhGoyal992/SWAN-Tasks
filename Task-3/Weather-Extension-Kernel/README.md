@@ -1,11 +1,5 @@
 # Weather Extension for Jupyter Lab
 
-A JupyterLab extension. The data is imported into the kernel as variables in the user's namespace.
-
-## Requirements
-
-* JupyterLab 2.0
-
 ## Procedure for the installtion
 
 1. Make sure you have Conda installed in your system if not install it from [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/).
