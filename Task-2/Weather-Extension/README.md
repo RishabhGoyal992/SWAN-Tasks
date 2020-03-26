@@ -1,10 +1,10 @@
 # Weather Extension for Jupyter Lab
 
-A JupyterLab extension to get weather data for cities.
+A packaged JupyterLab extension ready to be installed, which provides the functionality of obtaining weather data of the world cities.
 
 ## Requirements
 
-* JupyterLab >= 2.0
+* JupyterLab 2.0
 
 ## Install
 
@@ -12,7 +12,7 @@ A JupyterLab extension to get weather data for cities.
 jupyter labextension install .
 ```
 
-## Contributing
+## For Contributing
 
 ### Install
 
