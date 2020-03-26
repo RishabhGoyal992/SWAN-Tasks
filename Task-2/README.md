@@ -11,4 +11,4 @@ A packaged JupyterLab extension ready to be installed, which provides the functi
 
 ## Websites
 - https://github.com/jupyterlab/jupyterlab - Source
-- https://jupyterlab.readthedocs.io/en/latest/ - Documentation
+- https://jupyterlab.readthedocs.io/en/stable/developer/extension_dev.html- Documentation
