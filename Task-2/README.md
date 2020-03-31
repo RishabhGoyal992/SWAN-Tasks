@@ -8,7 +8,7 @@ A packaged JupyterLab extension ready to be installed, which provides the functi
 
 ## Sample Output
 Inline-style: 
-![Sample Output](https://github.com/SWAN-Tasks/Task-2/Weather-Extension/style/captured.gif)
+![Sample Output](https://github.com/rishabhgoyal992/SWAN-Tasks/Task-2/Weather-Extension/style/captured.gif)
 
 # Resources
 
