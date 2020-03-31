@@ -6,6 +6,9 @@ A packaged JupyterLab extension ready to be installed, which provides the functi
 
 * JupyterLab 2.0
 
+## Sample Output
+Inline-style: 
+![Sample Output](https://github.com/SWAN-Tasks/Task-2/Weather-Extension/style/captured.gif)
 
 # Resources
 
