@@ -3,6 +3,10 @@
 A packaged JupyterLab extension ready to be installed, which provides the functionality of obtaining weather data of the world cities, with an ability to access the weather information inside a notebook cell. A Kernel Extension is created that creates variable inside
 the user space. When printing this variable, the user is able to see the json with the weather information.
 
+## Sample Output
+
+![](https://github.com/RishabhGoyal992/SWAN-Tasks/blob/master/Task-3/Weather-Extension-Kernel/style/kernel-ext.gif)
+
 # How to use it?
 
 1. Search for a city in the extension to get the detailed weather data.
