@@ -58,7 +58,7 @@ jupyter lab --watch
 ### Uninstall
 
 ```bash
-jupyter labextension uninstall weather_extension
+jupyter labextension uninstall Weather-Extension
 ```
 
 # Resources
