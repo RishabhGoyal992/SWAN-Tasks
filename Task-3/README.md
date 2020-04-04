@@ -5,7 +5,7 @@ the user space. When printing this variable, the user is able to see the json wi
 
 ## Sample Output
 
-![sample output](https://github.com/RishabhGoyal992/SWAN-Tasks/blob/master/Task-3/Weather-Extension-Kernel/style/wek.gif)
+![sample output](https://github.com/RishabhGoyal992/SWAN-Tasks/blob/master/Task-3/Weather-Extension-Kernel/style/w-e-kernal.gif)
 
 ## How to use it?
 
