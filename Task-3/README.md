@@ -7,7 +7,7 @@ the user space. When printing this variable, the user is able to see the json wi
 
 ![](https://github.com/RishabhGoyal992/SWAN-Tasks/blob/master/Task-3/Weather-Extension-Kernel/style/kernel-ext.gif)
 
-# How to use it?
+## How to use it?
 
 1. Search for a city in the extension to get the detailed weather data.
 2. The data can then be accessed as a variable `weather_data` in the notebook cell.
